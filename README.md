@@ -175,7 +175,6 @@ graph TD
 | `gui_app.py` | Implementasi GUI dengan Tkinter |
 | `deret_harmonik.py` | Logic perhitungan dan validasi |
 | `history_manager.py` | Manajemen penyimpanan riwayat |
-| `config.py` | Konfigurasi warna, path, dan settings |
 
 ## 💡 Contoh Penggunaan
 
